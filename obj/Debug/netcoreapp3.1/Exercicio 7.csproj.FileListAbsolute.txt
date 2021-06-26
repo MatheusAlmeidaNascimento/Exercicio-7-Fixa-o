@@ -1,0 +1,13 @@
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.exe
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.deps.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.runtimeconfig.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.runtimeconfig.dev.json
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.dll
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\bin\Debug\netcoreapp3.1\Exercicio 7.pdb
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.csprojAssemblyReference.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.AssemblyInfoInputs.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.AssemblyInfo.cs
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.dll
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.pdb
+C:\Users\nasci\Documents\Atividades Feitas (Sprint 3)\Exercicios de Fixação\Exercicio 7\obj\Debug\netcoreapp3.1\Exercicio 7.genruntimeconfig.cache
